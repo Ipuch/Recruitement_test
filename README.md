@@ -1,5 +1,5 @@
 # Recruitement test
-- Follow the guidelines to install [bioptim](github.com/bioptim) on your computer.
+- Follow the guidelines to install [bioptim](github.com/pyomeca/bioptim) on your computer.
 - Download and run the script recruitment_script.py on your computer. What is the error message displayed in your console.
 - A bug is hidden in the script find it, modify it, to make the script work, explain why it didn't work in one or two sentences.
 - The result of the simulation can be found in `sol`. 
