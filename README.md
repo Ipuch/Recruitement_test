@@ -8,5 +8,5 @@ A pdf report is expected to be given to your contact person when the test is com
 - Modify the objective function to minimize generalized velocities `qdot` instead. What has changed with this new cost function ?
 - The result of the simulation can be found in `sol`. 
 You can find the values of the angle and translation of the system in `sol.states['q']` and torques in `sol.controls['tau']`.
-Modify the code to plot them in one figure in the clearest way.
+Modify the code to plot them on one figure in the clearest way.
 - Summarize in three sentences what the simulation did.
