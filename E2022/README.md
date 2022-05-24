@@ -1,4 +1,4 @@
-# Recruitement test
+# Recruitment test
 A pdf report is expected to be given to your contact person when the test is completed.
 
 - Follow the guidelines to install [bioptim](https://github.com/pyomeca/bioptim) on your computer.
